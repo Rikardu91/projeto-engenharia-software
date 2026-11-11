@@ -38,3 +38,15 @@ Descrever o objetivo principal do projeto.
 
 Descrever como executar o projeto.
 
+
+
+\## Histórico de desenvolvimento
+
+
+
+O projeto utiliza Git para controlar as versões e registrar as alterações realizadas.
+
+
+
+As modificações são organizadas em commits e branches, permitindo acompanhar a evolução do sistema e integrar alterações à versão principal.
+
