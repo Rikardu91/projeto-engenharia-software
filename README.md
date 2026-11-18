@@ -1,4 +1,4 @@
-Projeto de Engenharia de Software
+##Projeto de Engenharia de Software
 1. Sobre o projeto
 
 Projeto acadêmico desenvolvido como atividade da disciplina de Engenharia de Software, com o objetivo de aplicar conceitos de organização, documentação e controle de versões de um projeto de software.
@@ -11,7 +11,16 @@ Demonstrar a organização de um repositório Git, o gerenciamento de documentos
 
 Este repositório possui finalidade acadêmica e demonstrativa. Não contempla um sistema específico implementado.
 
-As atividades desenvolvidas incluem:
+##As atividades desenvolvidas incluem:
+
+- Organização dos arquivos e documentos.
+- Utilização do Git para controle de versões.
+- Registro das alterações por meio de commits.
+- Criação e utilização de branches.
+- Integração de alterações por meio de merge.
+- Disponibilização da documentação no GitHub.
+
+##As atividades desenvolvidas incluem:
 
 Organização dos arquivos e documentos do projeto.
 Utilização do Git para controle de versões.
@@ -20,13 +29,13 @@ Criação e utilização de branches.
 Integração de alterações por meio de merge.
 Disponibilização da documentação no GitHub.
 4. Tecnologias utilizadas
-Git: controle de versões.
-GitHub: hospedagem e gerenciamento do repositório.
-Markdown: elaboração da documentação.
+- Git: controle de versões.
+- GitHub: hospedagem e gerenciamento do repositório.
+- Markdown: elaboração da documentação.
 5. Estrutura do projeto
-docs/: armazenamento de documentos e artefatos do projeto.
-.gitignore: configuração dos arquivos ignorados pelo Git.
-README.md: documentação principal do repositório.
+- `docs/`: armazenamento de documentos e artefatos.
+- `.gitignore`: configuração dos arquivos ignorados pelo Git.
+- `README.md`: documentação principal do repositório.
 6. Execução
 
 Este repositório não possui uma aplicação executável. Seu conteúdo está direcionado à documentação, organização de artefatos e demonstração dos recursos de controle de versões.
