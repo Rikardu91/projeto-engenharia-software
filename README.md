@@ -20,14 +20,6 @@ Este repositório possui finalidade acadêmica e demonstrativa. Não contempla u
 - Integração de alterações por meio de merge.
 - Disponibilização da documentação no GitHub.
 
-##As atividades desenvolvidas incluem:
-
-Organização dos arquivos e documentos do projeto.
-Utilização do Git para controle de versões.
-Registro das alterações por meio de commits.
-Criação e utilização de branches.
-Integração de alterações por meio de merge.
-Disponibilização da documentação no GitHub.
 4. Tecnologias utilizadas
 - Git: controle de versões.
 - GitHub: hospedagem e gerenciamento do repositório.
