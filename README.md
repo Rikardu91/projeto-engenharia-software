@@ -50,3 +50,12 @@ O projeto utiliza Git para controlar as versões e registrar as alterações rea
 
 As modificações são organizadas em commits e branches, permitindo acompanhar a evolução do sistema e integrar alterações à versão principal.
 
+## Histórico de evolução
+
+O projeto utiliza Git e GitHub para controle de versões.
+
+Foi criada uma branch chamada documentacao para realizar
+melhorias na documentação antes da integração com a branch main.
+
+As alterações são registradas por meio de commits descritivos.
+
