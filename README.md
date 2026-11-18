@@ -1,61 +1,44 @@
-\# Projeto de Engenharia de Software
+Projeto de Engenharia de Software
+1. Sobre o projeto
 
+Projeto acadêmico desenvolvido como atividade da disciplina de Engenharia de Software, com o objetivo de aplicar conceitos de organização, documentação e controle de versões de um projeto de software.
 
+2. Objetivo
 
-\## Objetivo
+Demonstrar a organização de um repositório Git, o gerenciamento de documentos, o registro da evolução de um projeto por meio de commits e a integração de alterações utilizando branches e merge.
 
-Descrever o objetivo principal do projeto.
+3. Funcionalidades
 
+Este repositório possui finalidade acadêmica e demonstrativa. Não contempla um sistema específico implementado.
 
+As atividades desenvolvidas incluem:
 
-\## Funcionalidades
+Organização dos arquivos e documentos do projeto.
+Utilização do Git para controle de versões.
+Registro das alterações por meio de commits.
+Criação e utilização de branches.
+Integração de alterações por meio de merge.
+Disponibilização da documentação no GitHub.
+4. Tecnologias utilizadas
+Git: controle de versões.
+GitHub: hospedagem e gerenciamento do repositório.
+Markdown: elaboração da documentação.
+5. Estrutura do projeto
+docs/: armazenamento de documentos e artefatos do projeto.
+.gitignore: configuração dos arquivos ignorados pelo Git.
+README.md: documentação principal do repositório.
+6. Execução
 
-\- Funcionalidade 1
+Este repositório não possui uma aplicação executável. Seu conteúdo está direcionado à documentação, organização de artefatos e demonstração dos recursos de controle de versões.
 
-\- Funcionalidade 2
+7. Histórico de desenvolvimento
 
-\- Funcionalidade 3
+O projeto utiliza Git e GitHub para controlar as versões e registrar sua evolução.
 
+Foram realizados commits descritivos para registrar as alterações, além da criação da branch documentacao, na qual foram realizadas melhorias na documentação.
 
+Posteriormente, as alterações foram integradas à branch principal main por meio de um Pull Request e merge.
 
-\## Tecnologias utilizadas
+8. Status do projeto
 
-\- Informar as tecnologias utilizadas no projeto.
-
-
-
-\## Estrutura do projeto
-
-\- src/: arquivos do sistema.
-
-\- docs/: documentação e diagramas.
-
-\- testes/: arquivos de testes.
-
-
-
-\## Execução
-
-Descrever como executar o projeto.
-
-
-
-\## Histórico de desenvolvimento
-
-
-
-O projeto utiliza Git para controlar as versões e registrar as alterações realizadas.
-
-
-
-As modificações são organizadas em commits e branches, permitindo acompanhar a evolução do sistema e integrar alterações à versão principal.
-
-## Histórico de evolução
-
-O projeto utiliza Git e GitHub para controle de versões.
-
-Foi criada uma branch chamada documentacao para realizar
-melhorias na documentação antes da integração com a branch main.
-
-As alterações são registradas por meio de commits descritivos.
-
+Projeto acadêmico concluído em sua etapa de organização e documentação do repositório, atendendo à proposta de aplicação dos conceitos de controle de versões apresentados na disciplina.
